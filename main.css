@@ -25,6 +25,10 @@
   font-family: var(--first-font);
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   min-height: 100vh;
   /* background: url('background.jpg') no-repeat;
